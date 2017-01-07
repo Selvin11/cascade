@@ -128,7 +128,7 @@ i {
     padding: 0.2rem 0;
     border-bottom: 0.01rem solid #e6e6e6; }
     .sift-item .item.active {
-      color: #ffa000; }
+      color: #00b19b; }
 
 .col-nav-content {
   background-color: #fff; }
@@ -138,6 +138,6 @@ i {
   text-align: center;
   border-bottom: 0.01rem solid #e6e6e6; }
   .col-nav-item.active {
-    color: #ffa000; }
+    color: #00b19b; }
 
 /*# sourceMappingURL=cascade.css.map */

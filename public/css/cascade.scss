@@ -50,8 +50,8 @@
 }
 .screen-tabcontent{
     position: fixed;
-    top: 1.53rem;
-    width:100%;
+    top: 1.53rem;  
+    width:100%; 
     height: 100%;
     background-color: rgba(0,0,0,0.4);
     z-index: 10000;
@@ -72,7 +72,7 @@
         padding: 0.2rem 0;
         border-bottom: 0.01rem solid #e6e6e6;
         &.active{
-            color:#ffa000;
+            color:rgb(0, 177, 155);
         }
     }
 }
@@ -85,6 +85,6 @@
     text-align: center;
     border-bottom: 0.01rem solid #e6e6e6; 
     &.active{
-        color:#ffa000;
+        color:rgb(0, 177, 155);
     }
 }
