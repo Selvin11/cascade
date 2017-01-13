@@ -21,7 +21,6 @@
                 'textDecoration': this.options.textDecoration
             });
         },
-
     };
     //在插件中使用Beautifier对象
     $.fn.myPlugin = function(options) {
