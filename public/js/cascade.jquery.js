@@ -1,6 +1,4 @@
-/**
- * Created by Selvin11 on 2017/1/10 0010.
- */
+
 ;(function($, window, document,undefined) {
     //定义Beautifier的构造函数
     var Beautifier = function(ele, options) {
