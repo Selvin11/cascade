@@ -1,4 +1,3 @@
-
 ;(function($, window, document,undefined) {
     //定义Beautifier的构造函数
     var Beautifier = function(ele, options) {
